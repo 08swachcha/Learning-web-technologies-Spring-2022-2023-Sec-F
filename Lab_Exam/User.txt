@@ -1,0 +1,4 @@
+Nawaz|123|Shah|Nawaz|Male|2004-03-12|DHAKA|6879678
+Shoibal|123|Shah|Nawaz|Male|2004-03-12|DHAKA|6879678
+Adnan|1122|Mahadial|Mohok|Male|2023-03-02|dhaka|1234648
+Larim|123|Mahadial|Mohok|Male|2023-03-04|dhaka|01767268796
